@@ -3,3 +3,4 @@
 학과: 소프트웨어
 학년: 1
 수강과목: 오픈소스소프트웨어이해와실습
+오늘의 좋은 문구: Happiness gives us the energy which is the basis of health.
